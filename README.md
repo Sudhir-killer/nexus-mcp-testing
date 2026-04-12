@@ -1,5 +1,5 @@
 # nexus-mcp-testing
-## testing purpose
+## testing purposes
 Ok
 then
 ok
